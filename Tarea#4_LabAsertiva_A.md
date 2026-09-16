@@ -16,5 +16,4 @@ Esta propuesta busca estructurar los flujos de comunicación de un equipo de des
 - **Plan de fallback:** protocolo de migración a canal alterno ante fallas de videollamada (máx. 5 min), y notificación asíncrona ante fallas individuales de conexión.
 
 ## Video
-
-🔗 [Enlace al video del pitch] — *https://youtu.be/ZyBFncMydz8*
+Enlace video-pitch: *https://youtu.be/ZyBFncMydz8*

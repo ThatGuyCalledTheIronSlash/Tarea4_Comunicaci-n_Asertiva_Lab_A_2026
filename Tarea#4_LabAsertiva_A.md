@@ -1,5 +1,6 @@
 # Estrategia de Comunicación Asertiva para Equipos de Desarrollo Remoto
 #202500708
+
 #202230781
 
 ## Resumen
@@ -16,4 +17,4 @@ Esta propuesta busca estructurar los flujos de comunicación de un equipo de des
 
 ## Video
 
-🔗 [Enlace al video del pitch] — *(agregar aquí el link público)*
+🔗 [Enlace al video del pitch] — *https://youtu.be/ZyBFncMydz8*

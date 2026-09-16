@@ -1,5 +1,6 @@
 # Estrategia de Comunicación Asertiva para Equipos de Desarrollo Remoto
 #202500708
+#202230781
 
 ## Resumen
 
